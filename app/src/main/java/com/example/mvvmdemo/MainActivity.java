@@ -15,6 +15,7 @@ import com.example.mvvmdemo.databinding.ActivityMainBinding;
 import java.util.ArrayList;
 import java.util.List;
 
+
 public class MainActivity extends AppCompatActivity {
 
     //    TextView tvName;
