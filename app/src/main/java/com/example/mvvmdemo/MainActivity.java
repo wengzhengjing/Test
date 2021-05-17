@@ -22,6 +22,7 @@ public class MainActivity extends AppCompatActivity {
     private ActivityMainBinding binding;
     List<User> list = new ArrayList<>();
     MyAdapter adapter;
+    private int i;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
